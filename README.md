@@ -1,24 +1,6 @@
 # Kibord
 
-## Building guides
-http://matt3o.com/book/
+## Custom keyboards collection
+### [NumPad](./NumPad)
 
-http://matt3o.com/the-cardboard-keyboard-case/
-
-http://gizmodo.com/i-built-a-keyboard-from-scratch-1649325860
-
-http://blog.komar.be/how-to-make-a-keyboard-the-matrix/
-
-
-## Plate builder
-http://www.keyboard-layout-editor.com/#/
-
-then
-
-http://builder.swillkb.com/
-
-
-## Matt3o reviews <3
-https://deskthority.net/workshop-f7/building-a-custom-keyboard-from-the-ground-up-t5761.html
-
-https://deskthority.net/workshop-f7/custom-65-finally-finished-t5663.html
+And... that's it. For this moment.
