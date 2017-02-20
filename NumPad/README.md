@@ -1,3 +1,3 @@
 # NumPad
 
-![NumPad layout](./NumPad/NumPad-layout.png?raw=true)
+![NumPad layout](./NumPad-layout.png?raw=true)
