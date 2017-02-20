@@ -19,5 +19,5 @@ Todo
 ### Step 3 : Soldering components
 Todo
 
-### Step 4 : Install firmeware
+### Step 4 : Install firmware
 Todo
