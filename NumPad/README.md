@@ -28,6 +28,6 @@ cd SRC_QMK/keyboards/dolu_numpad
 make default
 ```
 Get hex file generated in .build folder
-#### Step 4.1 Download HEX file
+#### Step 4.2 Download HEX file
 You can also download directly compiled HEX file [here](./firmware/dolu_numpad_default.hex)
 
